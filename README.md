@@ -33,6 +33,9 @@ Klasa `L1BProcessorRPC`:
 - Przetwarza obraz L1B do L1C (ortorektyfikacja)
 - Zapisuje wynikowy obraz w docelowym układzie odniesienia (np. UTM)
 
+### `trial.ipynb`
+Testuje próby rozwiązań oraz liczy przykładowe AGA.
+
 ---
 
 ## 📊 AGA – Absolute Geometric Accuracy
